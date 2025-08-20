@@ -1,0 +1,100 @@
+Uri: https://portallitoral.com/comments/feed/
+File Name: C:\Downloaded Web Sites\portallitoral.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://portallitoral.com/feed/
+File Name: C:\Downloaded Web Sites\portallitoral.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://portallitoral.com/fornecedores-secretos/
+File Name: C:\Downloaded Web Sites\portallitoral.com\fornecedores-secretos\index.htm
+Content Type: text/html
+
+Uri: https://portallitoral.com/wp-content/litespeed/css/1fc0a571baccccf7ab1e3228f1f4a742.css?ver=6c541
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\litespeed\css\1fc0a571baccccf7ab1e3228f1f4a742.css
+Content Type: text/css
+
+Uri: https://portallitoral.com/wp-content/plugins/litespeed-cache/assets/js/instant_click.min.js?ver=7.2
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\plugins\litespeed-cache\assets\js\instant_click.min.js
+Content Type: application/x-javascript
+
+Uri: https://portallitoral.com/wp-content/plugins/presto-player/src/player/player-static.js?ver=1752201445
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\plugins\presto-player\src\player\player-static.js
+Content Type: application/x-javascript
+
+Uri: https://portallitoral.com/wp-content/webp-express/webp-images/uploads/2024/09/WhatsApp-Image-2022-09-28-at-14.53.06.jpeg.webp
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\webp-express\webp-images\uploads\2024\09\WhatsApp-Image-2022-09-28-at-14.53.06.jpeg.webp
+Content Type: image/webp
+
+Uri: https://portallitoral.com/wp-content/webp-express/webp-images/uploads/2024/09/WhatsApp-Image-2022-09-28-at-14.53.07-1.jpeg.webp
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\webp-express\webp-images\uploads\2024\09\WhatsApp-Image-2022-09-28-at-14.53.07-1.jpeg.webp
+Content Type: image/webp
+
+Uri: https://portallitoral.com/wp-content/webp-express/webp-images/uploads/2024/09/WhatsApp-Image-2022-09-28-at-14.53.07.jpeg.webp
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\webp-express\webp-images\uploads\2024\09\WhatsApp-Image-2022-09-28-at-14.53.07.jpeg.webp
+Content Type: image/webp
+
+Uri: https://portallitoral.com/wp-content/webp-express/webp-images/uploads/2024/09/WhatsApp-Image-2022-09-28-at-16.35.51.jpeg.webp
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\webp-express\webp-images\uploads\2024\09\WhatsApp-Image-2022-09-28-at-16.35.51.jpeg.webp
+Content Type: image/webp
+
+Uri: https://portallitoral.com/wp-content/webp-express/webp-images/uploads/2024/10/google-safe-browsing-1024x211-1-300x62.png.webp
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\webp-express\webp-images\uploads\2024\10\google-safe-browsing-1024x211-1-300x62.png.webp
+Content Type: image/webp
+
+Uri: https://portallitoral.com/wp-content/webp-express/webp-images/uploads/2024/10/google-safe-browsing-1024x211-1-768x158.png.webp
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\webp-express\webp-images\uploads\2024\10\google-safe-browsing-1024x211-1-768x158.png.webp
+Content Type: image/webp
+
+Uri: https://portallitoral.com/wp-content/webp-express/webp-images/uploads/2024/10/google-safe-browsing-1024x211-1.png.webp
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\webp-express\webp-images\uploads\2024\10\google-safe-browsing-1024x211-1.png.webp
+Content Type: image/webp
+
+Uri: https://portallitoral.com/wp-content/webp-express/webp-images/uploads/2025/01/Selo-de-Garantia-de-30-Dias-PNG-Transparente-Sem-Fundo-150x150.png.webp
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\webp-express\webp-images\uploads\2025\01\Selo-de-Garantia-de-30-Dias-PNG-Transparente-Sem-Fundo-150x150.png.webp
+Content Type: image/webp
+
+Uri: https://portallitoral.com/wp-content/webp-express/webp-images/uploads/2025/01/Selo-de-Garantia-de-30-Dias-PNG-Transparente-Sem-Fundo-300x300.png.webp
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\webp-express\webp-images\uploads\2025\01\Selo-de-Garantia-de-30-Dias-PNG-Transparente-Sem-Fundo-300x300.png.webp
+Content Type: image/webp
+
+Uri: https://portallitoral.com/wp-content/webp-express/webp-images/uploads/2025/01/Selo-de-Garantia-de-30-Dias-PNG-Transparente-Sem-Fundo.png.webp
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\webp-express\webp-images\uploads\2025\01\Selo-de-Garantia-de-30-Dias-PNG-Transparente-Sem-Fundo.png.webp
+Content Type: image/webp
+
+Uri: https://portallitoral.com/wp-content/webp-express/webp-images/uploads/2025/04/ChatGPT-Image-9-de-abr.-de-2025-00_39_10-200x300.png.webp
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\webp-express\webp-images\uploads\2025\04\ChatGPT-Image-9-de-abr.-de-2025-00_39_10-200x300.png.webp
+Content Type: image/webp
+
+Uri: https://portallitoral.com/wp-content/webp-express/webp-images/uploads/2025/04/ChatGPT-Image-9-de-abr.-de-2025-00_39_10-683x1024.png.webp
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\webp-express\webp-images\uploads\2025\04\ChatGPT-Image-9-de-abr.-de-2025-00_39_10-683x1024.png.webp
+Content Type: image/webp
+
+Uri: https://portallitoral.com/wp-content/webp-express/webp-images/uploads/2025/04/ChatGPT-Image-9-de-abr.-de-2025-00_39_10-768x1152.png.webp
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\webp-express\webp-images\uploads\2025\04\ChatGPT-Image-9-de-abr.-de-2025-00_39_10-768x1152.png.webp
+Content Type: image/webp
+
+Uri: https://portallitoral.com/wp-content/webp-express/webp-images/uploads/2025/04/ChatGPT-Image-9-de-abr.-de-2025-00_39_10.png.webp
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-content\webp-express\webp-images\uploads\2025\04\ChatGPT-Image-9-de-abr.-de-2025-00_39_10.png.webp
+Content Type: image/webp
+
+Uri: https://portallitoral.com/wp-json/
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://portallitoral.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fportallitoral.com%2Ffornecedores-secretos%2F
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://portallitoral.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fportallitoral.com%2Ffornecedores-secretos%2F&format=xml
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://portallitoral.com/wp-json/wp/v2/pages/530
+File Name: C:\Downloaded Web Sites\portallitoral.com\wp-json\wp\v2\pages\530
+Content Type: application/json
+
+Uri: https://portallitoral.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\portallitoral.com\xmlrpc.php
+Content Type: text/xml
+
